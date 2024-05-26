@@ -1,2 +1,2 @@
 # AshovanIT Pvt Ltd
-author - ganesh sir
+author - ganesh gole sir
