@@ -1,4 +1,4 @@
 # AshovanIT Pvt Ltd
 author - ganesh gole sir
 
-Lakhan solanke
+location - near by sndt collage 
